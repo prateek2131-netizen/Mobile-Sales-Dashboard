@@ -4,10 +4,11 @@ This Power BI dashboard analyzes mobile sales across different regions, categori
 It includes KPIs like total revenue, units sold, and profit margins.  
 
 ## Preview
-![Dashboard Screenshot](Dashboard_screenshot.png)
+![Dashboard Screenshot](Dashboard_Screenshot.png)
 
 ## Files
 - `Mobile Sales Dashboard.pbix` → Power BI dashboard  
 
 ## Tools Used
 - Power BI  
+
